@@ -12,7 +12,7 @@ export default function Header() {
         </div>
 
         <h3 className="flex items-end gap-2 text-xl md:text-2xl mb-3 font-Ovo">
-            Hi! I'm Sai Anudra 
+            Hi! I&apos;m Sai Anudra 
             <Image src={hand_emoji} alt="" className="w-6"/>
         </h3>
 
