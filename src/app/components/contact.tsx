@@ -1,5 +1,5 @@
 import React from 'react';
-import { faGithub, faInstagram, faLinkedin, faXTwitter, faTwitter } from '@fortawesome/free-brands-svg-icons';
+import { faGithub, faInstagram, faLinkedin, faXTwitter } from '@fortawesome/free-brands-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 export default function Contact() {
